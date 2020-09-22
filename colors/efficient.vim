@@ -44,7 +44,7 @@ hi Special             ctermfg=250  ctermbg=NONE cterm=NONE       guifg=#bcbcbc 
 hi SpecialChar         ctermfg=250  ctermbg=NONE cterm=NONE       guifg=#bcbcbc  guibg=NONE     gui=NONE
 hi SpecialKey          ctermfg=250  ctermbg=NONE cterm=NONE       guifg=#bcbcbc  guibg=NONE     gui=NONE
 
-hi MatchParen          ctermfg=234  ctermbg=51   cterm=NONE       guifg=#121212  guibg=#00ffff  gui=NONE
+hi MatchParen          ctermfg=234  ctermbg=51   cterm=NONE       guifg=#00ffff  guibg=#121212  gui=NONE
 hi ColorColumn         ctermfg=NONE ctermbg=236  cterm=NONE       guifg=NONE     guibg=#303030  gui=NONE
 
 hi Cursor              ctermfg=234  ctermbg=51   cterm=NONE       guifg=#121212  guibg=#00ffff  gui=NONE
